@@ -1,0 +1,5 @@
+[
+    {"product_id": "P01", "product_name": "Bàn phím", "category": "Phụ kiện"},
+    {"product_id": "P02", "product_name": "Chuột", "category": "Phụ kiện"},
+    {"product_id": "P03", "product_name": "Màn hình", "category": "Thiết bị"}
+]

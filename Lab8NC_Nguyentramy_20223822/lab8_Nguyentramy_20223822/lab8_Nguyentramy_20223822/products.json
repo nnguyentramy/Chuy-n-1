@@ -1,0 +1,5 @@
+[
+  {"ma_sp": "P01", "ten_sp": "Bút", "nhom": "Văn phòng", "gia": 5000},
+  {"ma_sp": "P02", "ten_sp": "Vở", "nhom": "Học tập", "gia": 12000},
+  {"ma_sp": "P03", "ten_sp": "Thước", "nhom": "Dụng cụ", "gia": 8000}
+]

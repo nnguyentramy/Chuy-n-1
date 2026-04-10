@@ -1,0 +1,7 @@
+[
+    {"id": "P01", "name": "Bàn phím", "category": "Phụ kiện", "price": 150},
+    {"id": "P02", "name": "Chuột", "category": "Phụ kiện", "price": 100},
+    {"id": "P03", "name": "Màn hình", "category": "Thiết bị", "price": 3000},
+    {"id": "P04", "name": "Laptop", "category": "Thiết bị", "price": 15000},
+    {"id": "P05", "name": "Tai nghe", "category": "Phụ kiện", "price": 500}
+]
